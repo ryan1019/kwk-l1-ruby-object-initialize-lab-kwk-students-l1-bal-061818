@@ -1,3 +1,6 @@
 # person.rb
-class Person 
-  
+class Person
+
+  def initialize (name = "Haley")
+    @name = name
+    
